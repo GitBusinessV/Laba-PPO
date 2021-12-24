@@ -1,3 +1,7 @@
 log.log
+
 .gitignore
+
+n_gr.txt
+
 experimental.txt
